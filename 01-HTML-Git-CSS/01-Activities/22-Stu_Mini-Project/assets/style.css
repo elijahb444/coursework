@@ -1,0 +1,14 @@
+.page-top {
+color: white;
+background-color: darkgreen;
+padding: 10px;
+border-bottom: 5px solid tan;
+}
+
+img {
+    display: block;
+}
+
+.header-info {
+    display: inline;
+}
